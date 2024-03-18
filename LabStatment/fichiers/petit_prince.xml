@@ -5,12 +5,12 @@
   <the_header>
     <title>LePetitPrince</title>
     <author>Antoine de Saint-Exupéry</author>
-    <cover path="images/prince.png"/>
+    <cover path="../images/prince.png"/>
     <styling_information>
       <styling_description>Traitement d'un texte franco/hongrois avec XPath / XSLT / XQuery</styling_description>
       <styled_by>
-        <style_manager>Moi</style_manager>
-        <style_manager>Mon binome</style_manager>
+        <style_manager>Marine QUEMENER</style_manager>
+        <style_manager>Doha ES-SOUFI</style_manager>
         <NoBinome>B3221</NoBinome>
       </styled_by>
       <email>text</email>
